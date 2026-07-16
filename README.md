@@ -67,7 +67,6 @@ End-to-end connectivity was verified with `ping` between PCs in the same departm
 - Replace router-on-a-stick with an L3 switch (SVIs) for comparison
 
 ---
-HEAD
 
 ## Getting Started
 
