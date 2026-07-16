@@ -67,7 +67,10 @@ End-to-end connectivity was verified with `ping` between PCs in the same departm
 - Replace router-on-a-stick with an L3 switch (SVIs) for comparison
 
 ---
+<<<<<<< HEAD
 
 ## Getting Started
 
 Clone this repo and open `project-file/OSPF_VLAN_lab.pkt` in Cisco Packet Tracer to explore the lab directly. Device configs are also available as plain text under `configs/` if you just want to read them without opening Packet Tracer.
+=======
+>>>>>>> 3cba344c0bd536d6780ec09c5b06a41ceb319da4
